@@ -2,7 +2,7 @@
   {
     "description": "Eliminatório Copa 2022",
     "local": {
-      "nome": "Maracanã",
+      "name": "Maracanã",
       "image": "TODO"
     },
     "homeTeam": {
@@ -14,6 +14,6 @@
       "name": "Argentina",
       "force": 5,
       "image": "TODO"
-    },
+    }
   }
 ]
